@@ -5,3 +5,6 @@ creator,true,false
 description,true,true
 subject,true,true
 location,true,false
+identifier,true,false
+source,true,false
+relation,true,false
