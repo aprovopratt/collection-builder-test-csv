@@ -4,3 +4,4 @@ creator,Creator,,,
 subject,,true
 location,,true
 identifier,,,true,Identifier
+title,Title,,true,Title
