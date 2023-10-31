@@ -1,6 +1,12 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Creator,true,,DCTERMS.creator,creator
+creator_given,Creator Given Name,true,,
+creator_surname,Creator Surname,true,,
+creator_given_1,Creator Given Name 1,true,,
+creator_surname_1,Creator Surname 1,true,,
+creator_given_2,Creator Given Name 2,true,,
+creator_surname_2,Creator Surname 2,true,,
 date,Date Created,,,DCTERMS.date,dateCreated
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
